@@ -16,8 +16,8 @@ Le pipeline est divisé en 5 scripts Python distincts pour garantir la modularit
 *   **`dashboard.py` (Application Streamlit) :** Un tableau de bord interactif regroupant l'EDA, l'importance des variables, et un "Simulateur de Survie" permettant de tester les probabilités de survie d'un profil passager personnalisé.
 
 ### Performances
-*   **Accuracy en Validation (XGBoost + Optuna) :** ~83.2%
-*   **Score Public Kaggle :** ~0.753
+*   **Accuracy en Validation (XGBoost + Optuna) :** ~84.9%
+*   **Score Public Kaggle :** ~0.761
 
 ### Comment lancer le projet
 
@@ -57,8 +57,8 @@ The pipeline is divided into 5 distinct Python scripts to ensure modularity and 
 *   **`dashboard.py` (Streamlit App):** A fully interactive dashboard featuring the EDA insights, model feature importance, and a "Survival Simulator" where users can input custom passenger traits to get live survival probabilities.
 
 ### Performance
-*   **Validation Accuracy (XGBoost + Optuna):** ~83.2%
-*   **Kaggle Public Score:** ~0.753
+*   **Validation Accuracy (XGBoost + Optuna):** ~84.9%
+*   **Kaggle Public Score:** ~0.761
 
 ### How to Run
 
