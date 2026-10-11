@@ -23,7 +23,7 @@ Le pipeline est divisé en 5 scripts Python distincts pour garantir la modularit
 
 1. **Installer les dépendances :**
    ```bash
-   pip install pandas numpy scikit-learn xgboost optuna matplotlib seaborn streamlit
+   pip install -r requirements.txt
    ```
 
 2. **Exécuter le pipeline étape par étape :**
@@ -64,7 +64,7 @@ The pipeline is divided into 5 distinct Python scripts to ensure modularity and 
 
 1. **Install dependencies:**
    ```bash
-   pip install pandas numpy scikit-learn xgboost optuna matplotlib seaborn streamlit
+   pip install -r requirements.txt
    ```
 
 2. **Execute the pipeline sequentially:**
