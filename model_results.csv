@@ -1,0 +1,6 @@
+Modele,Accuracy
+XGBoost (Optimise Optuna),0.8324022346368715
+Regression Logistique,0.8212290502793296
+XGBoost (Base),0.7877094972067039
+Random Forest (Base),0.776536312849162
+Reseau de Neurones (MLP),0.776536312849162
